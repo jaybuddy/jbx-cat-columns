@@ -1,0 +1,8 @@
+*.py    filter=spabs
+*.css	filter=spabs
+*.scss	filter=spabs
+*.js	filter=spabs
+*.md	filter=spabs
+*.sh	filter=spabs
+*.php	filter=spabs
+*.mustache	filter=spabs
