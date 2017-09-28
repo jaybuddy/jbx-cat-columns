@@ -24,6 +24,8 @@
 
 class jbxCatColumns {
 
+	echo test;
+	
 	function __construct() {
 		add_action( 'wp_enqueue_scripts', array( $this, 'jbxCatColumnsStyles' ) );
 		add_shortcode( 'jbx', array( $this, 'jbx_shortcode' ) );
